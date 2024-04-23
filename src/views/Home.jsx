@@ -6,7 +6,7 @@ const home = () => {
         Bienvenido a <span className="fw-bold">Happy Cake</span>
       </p>
       <p className="fs-4">El lugar de los pasteles felices</p>
-      <img src="./public/chocolate_cake.png" alt="" />
+      <img src="chocolate_cake.png" alt="" />
     </div>
   );
 };
