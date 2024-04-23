@@ -1,0 +1,13 @@
+* {
+  font-family: "roboto", sans-serif;
+}
+.navbar {
+  color: white;
+}
+.logo {
+  width: 48px;
+  height: 48px;
+}
+.icono {
+  font-size: 64px;
+}
